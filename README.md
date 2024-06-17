@@ -1,5 +1,5 @@
-# Последняя версия: 1.1
-## Что нового?
+## Последняя версия сборки: 1.1
+> ### Что нового?
 - Обновлено 25 модов до новейшей версии
 - Добавлен мод [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated)
 - Добавлено 3 аддона для мода [Create](https://createmod.net/)
