@@ -5,6 +5,7 @@
 - Добавлено 3 аддона для мода [Create](https://createmod.net/)
 - Добавлено 7 аддонов для серии модов [Let's Do](https://www.curseforge.com/minecraft/mc-mods/do-api)
 - Добавлены новые [картины](https://modrinth.com/mod/dark-paintings)
+- Добавлен новый пак эмоций
 
 ## Что изменено и исправлено?
 - Обновлено 26 модов до новейшей версии
